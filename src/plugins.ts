@@ -2524,6 +2524,14 @@ export const plugins: PluginInfoBase[] = [
     discoverReleases: true,
   },
   {
+    repo: 'Luke-Evan/zotero-keep-window',
+    releases: [],
+    tags: [
+      'utility',
+    ],
+    discoverReleases: true,
+  },
+  {
     repo: 'Lyz-623/JournalLens',
     releases: [
       {
